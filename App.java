@@ -22,7 +22,8 @@ public class App {
                 e.getMessage();
             }
         }
-        System.out.println(camp.wood);
+        System.out.println(camp.wood); 
+
         if (camp.wood >= 100){
             System.out.println("Mission completed");
         } else{

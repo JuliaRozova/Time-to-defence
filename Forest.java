@@ -2,7 +2,7 @@ package TimeToDefence;
 
 import java.util.Random;
 
-public class Forest {
+public class Forest { //common resource
     int wood;
 
     Forest(){

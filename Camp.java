@@ -1,6 +1,6 @@
 package TimeToDefence;
 
-public class Camp {
+public class Camp { //where to leave wood
     int wood;
 
     Camp(){
